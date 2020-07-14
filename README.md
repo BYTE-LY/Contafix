@@ -5,11 +5,12 @@ Made by @BYTE-LY
 This works only for Libyan phone numbers
 
 how to use:
+
 download this repo.
 ```
 git clone https://github.com/BYTE-LY/Contafix
 ```
-execute
+execute.
 
 ```
 cd Contafix
